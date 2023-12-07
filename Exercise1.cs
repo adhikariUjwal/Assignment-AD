@@ -1,4 +1,5 @@
-﻿using System;
+﻿/*
+using System;
 
 class Car
 {
@@ -22,7 +23,7 @@ class Car
     }
 }
 
-class Program
+class Exercise1
 {
     static void Main()
     {
@@ -32,3 +33,4 @@ class Program
         myCar.DisplayCarDetails();
     }
 }
+*/
